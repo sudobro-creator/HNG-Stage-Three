@@ -1,0 +1,3 @@
+Flask
+unicorn
+Celery[redis]
