@@ -1,4 +1,4 @@
-# Messaging System with RabbitMQ, Celery, and Python Application Behind Nginx 
+# Messaging System with RabbitMQ, Celery, and Python Application Behind Nginx
 <h3>HNG-Stage-Three</h3>
 This project implements a messaging system using RabbitMQ and Celery for task queuing and a Python Flask application. The application is deployed behind Nginx and includes functionalities for sending emails and logging events. The logs can be viewed directly via an HTTP endpoint.
 
